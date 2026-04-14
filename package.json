@@ -1,0 +1,23 @@
+{
+  "name": "typescript50-70",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolDF33/TypeScript50-70.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolDF33/TypeScript50-70/issues"
+  },
+  "homepage": "https://github.com/SolDF33/TypeScript50-70#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
